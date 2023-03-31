@@ -1,0 +1,17 @@
+.input{
+    background: #404040;
+    width: 850px;
+    height: 45px;
+    border-radius: 9px;
+    outline: none;
+    border: none;
+    padding-right:35px ;
+    color: #acacac;
+}
+::placeholder{
+    color: #acacac;
+    font-weight: bold;
+}
+.ico{
+    transform: translateX(-25px);
+}
